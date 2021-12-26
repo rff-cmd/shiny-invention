@@ -1,4 +1,4 @@
-import { FaGithub, FaYoutube } from 'react-icons/fa'
+import { FaEmber, FaFacebook, FaGithub, FaInstagram, FaLinkedin, FaMailchimp, FaYoutube } from 'react-icons/fa'
 import { FaTwitch } from 'react-icons/fa'
 import { FaRegPaperPlane } from 'react-icons/fa'
 import { FaDiscord } from 'react-icons/fa'
@@ -19,24 +19,24 @@ export default function Card() {
                         Rafly Muhammad Gibran
                     </p>
                     <p className="text-xs sm:text-base text-gray-400 pt-2 pb-4 px-5 w-58 inline-block border-b-2">
-                        DevOps
+                        Network Engineer
                     </p>
                     <div className="flex align-center justify-center mt-4">
                         <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300 dark:text-gray-200 dark:hover:bg-gray-500" href="#">
                             <FaGithub />
                             <span className="sr-only">Github</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-red-500 hover:bg-red-500 rounded-full hover:text-white transition-colors duration-300" href="#">
-                            <FaYoutube />
-                            <span className="sr-only">Twitter</span>
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-purple-500 hover:bg-purple-500 rounded-full hover:text-white transition-colors duration-300" href="https://www.instagram.com/iamraflymg/">
+                            <FaInstagram />
+                            <span className="sr-only">Instagram</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-indigo-500 hover:bg-indigo-500 rounded-full hover:text-white transition-colors duration-300" href="#">
-                            <FaDiscord />
-                            <span className="sr-only">Discord</span>
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="https://web.facebook.com/RAFLY.XTC/">
+                            <FaFacebook />
+                            <span className="sr-only">Facebook</span>
                         </a>
-                        <a className="text-xl mt-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="raflymg22@gmail.com">
-                            <FaRegPaperPlane />
-                            <span className="sr-only">Email</span>
+                        <a className="text-xl mt-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="https://www.linkedin.com/in/raflymg/">
+                            <FaLinkedin />
+                            <span className="sr-only">Linkedin</span>
                         </a>
                     </div>
                 </div>
