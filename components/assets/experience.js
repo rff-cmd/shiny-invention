@@ -10,7 +10,7 @@ export default function Skills() {
                 <div className="text-center mb-20">
                     <h1 className="sm:text-5xl text-4xl font-medium title-font text-black mb-4 dark:text-white">My Background</h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                       Hallo, Introduce me Rafly Network Engineer at <a href='https://dianglobaltech.co.id' className='text-blue-500'><strong>Dian Global Tech</strong></a> 
+                       Hallo, Introduce me Rafly, I am a freelance web developer and devops engineer with more than 2 years of work experience, now I am a student majoring in Information Technology.
                     </p>
                     <div className="flex mt-6 justify-center">
                         <div className="w-72 h-1 rounded-full bg-gray-800 dark:bg-gray-500 inline-flex"></div>

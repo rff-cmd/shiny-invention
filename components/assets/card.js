@@ -19,7 +19,7 @@ export default function Card() {
                         Rafly Muhammad Gibran
                     </p>
                     <p className="text-xs sm:text-base text-gray-400 pt-2 pb-4 px-5 w-58 inline-block border-b-2">
-                        Network Engineer
+                        IT Enthusiast
                     </p>
                     <div className="flex align-center justify-center mt-4">
                         <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300 dark:text-gray-200 dark:hover:bg-gray-500" href="#">
